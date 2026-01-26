@@ -6,8 +6,8 @@ simulate possible interventions, and determine which customers should be targete
 
 ``` text
 bankchurn analysis/
-├── 01_eda&preprocessing.ipynb
-├── 02_feature_engineering.ipynb
+├── 01_preprocessing&feature_engineering.ipynb
+├── 02_EDA.ipynb
 ├── 03_feature_selection.ipynb
 ├── 04_rule_extraction.ipynb
 ├── 05_sensitivity_analysis.ipynb
