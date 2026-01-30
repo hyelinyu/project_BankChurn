@@ -6,11 +6,10 @@ simulate possible interventions, and determine which customers should be targete
 
 ``` text
 bankchurn analysis/
-├── 01_preprocessing&feature_engineering.ipynb
-├── 02_EDA.ipynb
-├── 03_feature_selection.ipynb
-├── 04_rule_extraction.ipynb
-├── 05_sensitivity_analysis.ipynb
+├── 01_preprocessing&feature_engineering.ipynb  #전처리와 파생변수 생성
+├── 02_EDA.ipynb                                
+├── 03_rule_extraction.ipynb
+├── 04_sensitivity_analysis.ipynb
 │
 └── dataset/  
      ├── BankChurners.csv
