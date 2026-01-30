@@ -4,6 +4,8 @@
 To identify interpretable behavioral rules that drive customer churn,
 simulate possible interventions, and determine which customers should be targeted for retention strategies.
 
+
+##  Projecy Structure 
 ``` text
 bankchurn analysis/
 ├── 01_preprocessing&feature_engineering.ipynb  #전처리와 파생변수 생성
